@@ -49,12 +49,7 @@
 [tr][th]Min кол-во баллов[/th][td]32[/td][td]40[/td][td]52[/td][td]60[/td][td]70[/td][td]80[/td][/tr][/table]
 
 [color=#00BF00][b]УЧАСТНИКИ ПРОГРАММЫ[/b][/color]:
-[table][th]Позиция[/th][th]Клуб[/th][th]Игрок[/th][th]Стиль[/th][th]Спецухи[/th][th]28сез[/th][th]29сез[/th][th]30сез[/th]
-[tr][td]LD/CD[/td][td][url=http://www.virtualsoccer.ru/roster.php?num=14332]Рапидо[/url][/td][td][url=http://www.virtualsoccer.ru/player_events.php?num=1302365&season=28]Лой Вай Юхин[/url][/td][td][/td][td]Л Г Ск Ат[/td][td][b]-[/b][/td][td][b]1575К[/b][/td][td][color=#FF0000][b]340К[/b][/color][/td][/tr]
-[tr][td]RD/LD[/td][td][url=http://www.fifa08.ru/roster.php?num=13728]Лам Пак[/url][/td][td][url=http://www.fifa08.ru/player.php?num=1346939]Ю Хин Ченг[/url][/td][td][/td][td]Л Г Ск Ат[/td][td][b]-[/b][/td][td][b]-[/b][/td][td][color=#FF0000][b]700К[/b][/color][/td][/tr]
-[tr][td]RM/RF[/td][td][url=http://www.fifa08.ru/roster.php?num=13728]Лам Пак[/url][/td][td][url=http://www.fifa08.ru/player.php?num=1346938]Лам Ка Чон[/url][/td][td][/td][td]Л Г Ск Ат[/td][td][b]-[/b][/td][td][b]-[/b][/td][td][color=#FF0000][b]700К[/b][/color][/td][/tr]
-[tr][td]СF[/td][td][url=http://www.fifa08.ru/roster.php?num=15652]Бомбейруш[/url][/td][td][url=http://www.virtualsoccer.ru/player.php?num=1305710]Кхай Чхон Перейраг[/url][/td][td][/td][td]Л Г Пд У[/td][td]-[/td][td][b]950К[/b][/td][td]-[/td][/tr][/table]
-
+[table][tr][th]Когда зачислен[/th] [th]Позиция[/th] [th]Клуб[/th] [th]Игрок[/th] [th]Стиль[/th] [th]Спецухи[/th] [th]28 сезон[/th] [th]29сез[/th] [th]30сез[/th] [th]31 сезон[/th][/tr] [tr][td]28 сезон[/td] [td]LD/CD[/td] [td]Рапидо[/td] [td]Лой Вай Юхин[/td] [td]-[/td] [td]Л Г Ск Ат[/td] [td]-[/td] [td]1575 К[/td] [td]340 К[/td] [td][/td][/tr] [tr][td]29 сезон[/td] [td]RD/LD[/td] [td]Лам Пак[/td] [td]Ю Хин Ченг[/td] [td]-[/td] [td]Л Г Ск Пд[/td] [td]-[/td] [td]-[/td] [td]700 К[/td] [td][/td][/tr] [tr][td]29 сезон[/td] [td]RM/RF[/td] [td]Лам Пак[/td] [td]Лам Ка Чон[/td] [td]-[/td] [td]Л Г Пд У[/td] [td]-[/td] [td]-[/td] [td]700 К[/td] [td][/td][/tr] [tr][td]28 сезон[/td] [td]СF[/td] [td]Бомбейруш[/td] [td]Кхай Чхон Перейра[/td] [td]-[/td] [td]Г Пд Ск У[/td] [td]-[/td] [td]950 К[/td] [td]450 К[/td] [td][/td][/tr] [tr][td]31 сезон[/td] [td]CM/CD[/td] [td]Иеонг Хин[/td] [td]Мок Чинва[/td] [td]-[/td] [td]Л Г Пд Ат[/td] [td]-[/td] [td]-[/td] [td]-[/td] [td][/td][/tr] [tr][td]31 сезон[/td] [td]GK[/td] [td]Ман Фон (Макао, Макао)[/td] [td]Зиан Файсан[/td] [td]-[/td] [td]Л В Р Ат[/td] [td]-[/td] [td]-[/td] [td]-[/td] [td][/td][/tr] [tr][td]31 сезон[/td] [td]CM/CD[/td] [td]Иеонг Хин[/td] [td]Чан Ваи Шэнь[/td] [td]-[/td] [td]Л Г Пд Ат[/td] [td]-[/td] [td]-[/td] [td]-[/td] [td][/td][/tr][/table] 
 
 
 [color=#000080][b]УЧАСТВОВАЛИ В ПРОГРАММЕ[/b][/color]:
